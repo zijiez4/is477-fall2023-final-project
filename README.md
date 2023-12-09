@@ -14,7 +14,7 @@ After running analysis.py, you can automatically get a result file. In the resul
 Some necessary software/modules you may need to install:
 1. Compiler: Visual Studio Code (recommended)
 2. Python 3.10 (or above)
-3. Python modules: requests, pandas, ydaya-profiling, snakemake, matplotlib (all listed in requirement.txt)
+3. Python modules: requests, pandas, ydaya-profiling, snakemake, matplotlib (all listed in requirements.txt)
 
 After optionally installing the above requirements, you can create a new folder locally and clone the repository.
 
@@ -38,7 +38,7 @@ Option 2: You also can do the same thing using Docker.
 
 In your Vscode, run the following code to download the Docker image I provided (windows):
 
-``docker pull zijiez4/is477-fall2023-final-projet:v1 ``
+``docker pull zijiez4/is477-fall2023-final-project:v1 ``
 
 Run the following code in sequence to complete the reproduction (windows):
 
