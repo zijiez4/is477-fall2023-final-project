@@ -1,4 +1,5 @@
 # is477-fall2023-final-project
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10313544.svg)](https://doi.org/10.5281/zenodo.10313544)
 
 ## Overview
 This project performed summary statistics on malicacids and flavanoids in a wine chemical analysis dataset. The purpose is to observe the statistical values of the target data in more detail for future research. The database is the result of a chemical analysis of wines grown in the same region of Italy but from three different varieties, which contain the quantities of 13 constituents found in each of the three types of wines. This project only selected two of them for statistics, namely malicacids and flavanoids. The statistical results mainly involve the mean, standard deviation, and quarter values. The statistical results are visualized with a box plot.
