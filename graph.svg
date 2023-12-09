@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="767pt" height="260pt" viewBox="0.00 0.00 767.30 260.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 256)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-256 763.3037,-256 763.3037,4 -4,4"/>
+<!-- data/wine.data -->
+<g id="node1" class="node">
+<title>data/wine.data</title>
+<path fill="#ffffd1" stroke="#000000" d="M522.3051,-180C522.3051,-180 448.8205,-180 448.8205,-180 442.8205,-180 436.8205,-174 436.8205,-168 436.8205,-168 436.8205,-156 436.8205,-156 436.8205,-150 442.8205,-144 448.8205,-144 448.8205,-144 522.3051,-144 522.3051,-144 528.3051,-144 534.3051,-150 534.3051,-156 534.3051,-156 534.3051,-168 534.3051,-168 534.3051,-174 528.3051,-180 522.3051,-180"/>
+<text text-anchor="middle" x="485.5628" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">data/wine.data</text>
+</g>
+<!-- analyze -->
+<g id="node5" class="node">
+<title>analyze</title>
+<polygon fill="#d6fdd0" stroke="#000000" points="477.8123,-108 423.3133,-108 419.3133,-104 419.3133,-72 473.8123,-72 477.8123,-76 477.8123,-108"/>
+<polyline fill="none" stroke="#000000" points="473.8123,-104 419.3133,-104 "/>
+<polyline fill="none" stroke="#000000" points="473.8123,-104 473.8123,-72 "/>
+<polyline fill="none" stroke="#000000" points="473.8123,-104 477.8123,-108 "/>
+<text text-anchor="middle" x="448.5628" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">analyze</text>
+</g>
+<!-- data/wine.data&#45;&gt;analyze -->
+<g id="edge2" class="edge">
+<title>data/wine.data-&gt;analyze</title>
+<path fill="none" stroke="#000000" d="M476.2261,-143.8314C472.1385,-135.8771 467.2524,-126.369 462.7319,-117.5723"/>
+<polygon fill="#000000" stroke="#000000" points="465.7089,-115.7078 458.0252,-108.4133 459.4829,-118.9074 465.7089,-115.7078"/>
+</g>
+<!-- profile -->
+<g id="node7" class="node">
+<title>profile</title>
+<polygon fill="#d6fdd0" stroke="#000000" points="634.5628,-108 584.5628,-108 580.5628,-104 580.5628,-72 630.5628,-72 634.5628,-76 634.5628,-108"/>
+<polyline fill="none" stroke="#000000" points="630.5628,-104 580.5628,-104 "/>
+<polyline fill="none" stroke="#000000" points="630.5628,-104 630.5628,-72 "/>
+<polyline fill="none" stroke="#000000" points="630.5628,-104 634.5628,-108 "/>
+<text text-anchor="middle" x="607.5628" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">profile</text>
+</g>
+<!-- data/wine.data&#45;&gt;profile -->
+<g id="edge1" class="edge">
+<title>data/wine.data-&gt;profile</title>
+<path fill="none" stroke="#000000" d="M516.3486,-143.8314C533.1796,-133.8983 554.1163,-121.5422 571.6845,-111.1741"/>
+<polygon fill="#000000" stroke="#000000" points="573.6917,-114.0536 580.5249,-105.9568 570.1339,-108.0251 573.6917,-114.0536"/>
+</g>
+<!-- profiling/report.html -->
+<g id="node2" class="node">
+<title>profiling/report.html</title>
+<path fill="#ffffd1" stroke="#000000" d="M747.5455,-36C747.5455,-36 639.5801,-36 639.5801,-36 633.5801,-36 627.5801,-30 627.5801,-24 627.5801,-24 627.5801,-12 627.5801,-12 627.5801,-6 633.5801,0 639.5801,0 639.5801,0 747.5455,0 747.5455,0 753.5455,0 759.5455,-6 759.5455,-12 759.5455,-12 759.5455,-24 759.5455,-24 759.5455,-30 753.5455,-36 747.5455,-36"/>
+<text text-anchor="middle" x="693.5628" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">profiling/report.html</text>
+</g>
+<!-- results/boxplots&#45;Malic_acid&amp;Flavanoids.png -->
+<g id="node3" class="node">
+<title>results/boxplots-Malic_acid&amp;Flavanoids.png</title>
+<path fill="#ffffd1" stroke="#000000" d="M257.1884,-36C257.1884,-36 11.9372,-36 11.9372,-36 5.9372,-36 -.0628,-30 -.0628,-24 -.0628,-24 -.0628,-12 -.0628,-12 -.0628,-6 5.9372,0 11.9372,0 11.9372,0 257.1884,0 257.1884,0 263.1884,0 269.1884,-6 269.1884,-12 269.1884,-12 269.1884,-24 269.1884,-24 269.1884,-30 263.1884,-36 257.1884,-36"/>
+<text text-anchor="middle" x="134.5628" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">results/boxplots-Malic_acid&amp;Flavanoids.png</text>
+</g>
+<!-- results/summary_statistics&#45;Malic_acid&amp;Flavanoids.txt -->
+<g id="node4" class="node">
+<title>results/summary_statistics-Malic_acid&amp;Flavanoids.txt</title>
+<path fill="#ffffd1" stroke="#000000" d="M597.5608,-36C597.5608,-36 299.5648,-36 299.5648,-36 293.5648,-36 287.5648,-30 287.5648,-24 287.5648,-24 287.5648,-12 287.5648,-12 287.5648,-6 293.5648,0 299.5648,0 299.5648,0 597.5608,0 597.5608,0 603.5608,0 609.5608,-6 609.5608,-12 609.5608,-12 609.5608,-24 609.5608,-24 609.5608,-30 603.5608,-36 597.5608,-36"/>
+<text text-anchor="middle" x="448.5628" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">results/summary_statistics-Malic_acid&amp;Flavanoids.txt</text>
+</g>
+<!-- analyze&#45;&gt;results/boxplots&#45;Malic_acid&amp;Flavanoids.png -->
+<g id="edge5" class="edge">
+<title>analyze-&gt;results/boxplots-Malic_acid&amp;Flavanoids.png</title>
+<path fill="none" stroke="#000000" d="M419.3044,-83.2911C374.9916,-73.1302 289.0423,-53.4221 223.1153,-38.305"/>
+<polygon fill="#000000" stroke="#000000" points="223.6582,-34.8388 213.1289,-36.0152 222.0937,-41.6617 223.6582,-34.8388"/>
+</g>
+<!-- analyze&#45;&gt;results/summary_statistics&#45;Malic_acid&amp;Flavanoids.txt -->
+<g id="edge6" class="edge">
+<title>analyze-&gt;results/summary_statistics-Malic_acid&amp;Flavanoids.txt</title>
+<path fill="none" stroke="#000000" d="M448.5628,-71.8314C448.5628,-64.131 448.5628,-54.9743 448.5628,-46.4166"/>
+<polygon fill="#000000" stroke="#000000" points="452.0629,-46.4132 448.5628,-36.4133 445.0629,-46.4133 452.0629,-46.4132"/>
+</g>
+<!-- prepare -->
+<g id="node6" class="node">
+<title>prepare</title>
+<polygon fill="#d6fdd0" stroke="#000000" points="514.5278,-252 460.5978,-252 456.5978,-248 456.5978,-216 510.5278,-216 514.5278,-220 514.5278,-252"/>
+<polyline fill="none" stroke="#000000" points="510.5278,-248 456.5978,-248 "/>
+<polyline fill="none" stroke="#000000" points="510.5278,-248 510.5278,-216 "/>
+<polyline fill="none" stroke="#000000" points="510.5278,-248 514.5278,-252 "/>
+<text text-anchor="middle" x="485.5628" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">prepare</text>
+</g>
+<!-- prepare&#45;&gt;data/wine.data -->
+<g id="edge3" class="edge">
+<title>prepare-&gt;data/wine.data</title>
+<path fill="none" stroke="#000000" d="M485.5628,-215.8314C485.5628,-208.131 485.5628,-198.9743 485.5628,-190.4166"/>
+<polygon fill="#000000" stroke="#000000" points="489.0629,-190.4132 485.5628,-180.4133 482.0629,-190.4133 489.0629,-190.4132"/>
+</g>
+<!-- profile&#45;&gt;profiling/report.html -->
+<g id="edge4" class="edge">
+<title>profile-&gt;profiling/report.html</title>
+<path fill="none" stroke="#000000" d="M629.2642,-71.8314C639.7549,-63.0485 652.5083,-52.3712 663.8822,-42.8489"/>
+<polygon fill="#000000" stroke="#000000" points="666.4475,-45.2659 671.8683,-36.1628 661.9539,-39.8986 666.4475,-45.2659"/>
+</g>
+</g>
+</svg>

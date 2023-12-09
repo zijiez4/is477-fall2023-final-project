@@ -1,0 +1,28 @@
+{
+    "title": "is477-fall2023-final-project",
+    "description": "This project focuses on analyzing the chemical components, specifically malicacids and flavanoids, in a dataset of wines from the same region in Italy but of three different varieties.",
+    "creators": [
+        {
+        "name": "Zhou, Zijie",
+        "orcid": "0009-0009-8773-9054"
+        }
+    ],
+    "related_identifiers": [
+        {
+        "scheme": "doi",
+        "identifier": "10.24432/C5PC7J",
+        "relation": "cites",
+        "resource_type": "dataset"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/zijiez4/is477-fall2023-final-project",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT",
+    "keywords": ["Wine", "Malicacid", "Flavanoid", "Chemical Components"]
+}
