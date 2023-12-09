@@ -21,7 +21,7 @@ After cloning is complete, you can directly run **prepare_data.py** in the compi
 
 ---
 
-Option: You can also run the repository through the provided snakefile. It will have the same function as above.
+Option 1: You can also run the repository through the provided snakefile. It will have the same function as above.
 
 Run the following code in sequence (windows):
 
@@ -30,6 +30,22 @@ Run the following code in sequence (windows):
 ``snakemake --cores 1 profile``
 
 ``snakemake --cores 1 analyze``
+
+---
+
+Option 2: You also can do the same thing using Docker.
+
+In your Vscode, run the following code to download the Docker image I provided (windows):
+
+``docker pull zijiez4/is477-fall2023-final-projet:v1 ``
+
+Run the following code in sequence to complete the reproduction (windows):
+
+`` docker run --rm -v ${PWD}:/is477 zijiez4/is477-fall2023-final-project:v1 snakemake --cores 1 prepare``
+
+`` docker run --rm -v ${PWD}:/is477 zijiez4/is477-fall2023-final-project:v1 snakemake --cores 1 profile``
+
+`` docker run --rm -v ${PWD}:/is477 zijiez4/is477-fall2023-final-project:v1 snakemake --cores 1 analyze``
 
 ## License
 
