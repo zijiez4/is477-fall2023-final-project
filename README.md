@@ -42,4 +42,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
 
 ## References
-[1] Aeberhard,Stefan and Forina,M.. (1991). Wine. UCI Machine Learning Repository. https://doi.org/10.24432/C5PC7J.
+Aeberhard,Stefan and Forina,M.. (1991). Wine. UCI Machine Learning Repository. https://doi.org/10.24432/C5PC7J.
