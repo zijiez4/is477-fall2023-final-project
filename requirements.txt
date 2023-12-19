@@ -1,5 +1,5 @@
 requests
 pandas
-ydaya-profiling
+ydata-profiling
 snakemake
 matplotlib
